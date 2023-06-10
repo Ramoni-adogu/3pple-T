@@ -386,7 +386,7 @@ a.book-section-anchor:hover {
 
 .hero-section {
     position: relative;
-    background-image: url(/static/src/man-cleaning-service-concept-clean-room-office-tools_36325-1163.webp);
+    background-image: url(./static/src/man-cleaning-service-concept-clean-room-office-tools_36325-1163.webp);
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -955,7 +955,7 @@ a.book-section-anchor:hover {
 
 .more-info-banner {
     position: relative;
-    background-image: url(/static/src/frets.jpg);
+    background-image: url(./static/src/frets.jpg);
     height: 140px;
     margin-top: 60px;
     align-items: center;
